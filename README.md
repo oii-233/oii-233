@@ -43,3 +43,11 @@
 <p align="center">
   ⭐ Built with HTML inside GitHub README
 </p>
+<hr/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oii-233/oii-233/output/github-contribution-grid-snake.svg" />
+</p>
+
