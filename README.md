@@ -27,15 +27,16 @@
 <h2>📊 GitHub Stats & Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oii-233&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oii-233&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oii-233&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=oii-233&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-233&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-233&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
 </p>
 
 <hr/>
