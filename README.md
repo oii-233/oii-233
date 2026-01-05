@@ -24,19 +24,10 @@
 
 <hr/>
 
-<h2>📊 GitHub Stats & Streak</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oii-233&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oii-233&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-233&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
+  <img src="https://metrics.lecoq.io/oii-233?template=classic&languages=1&lines=1&achievements=1&base=header%2Cactivity%2Ccommunity&languages.limit=8&languages.colors=github&languages.threshold=0%25" />
 </p>
 
 <hr/>
@@ -44,6 +35,7 @@
 <p align="center">
   ⭐ Built with HTML inside GitHub README
 </p>
+
 <hr/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -51,4 +43,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/oii-233/oii-233/output/github-contribution-grid-snake.svg" />
 </p>
-
