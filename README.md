@@ -26,8 +26,10 @@
 
 <h2>📊 GitHub Stats</h2>
 
+### 🔥 Contribution Streak  
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/oii-233?template=classic&languages=1&lines=1&achievements=1&base=header%2Cactivity%2Ccommunity&languages.limit=8&languages.colors=github&languages.threshold=0%25" />
+  <img src="https://streak-stats.vercel.app?user=temkin236&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <hr/>
